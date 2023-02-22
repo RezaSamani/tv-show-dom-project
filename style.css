@@ -1,0 +1,10 @@
+.sect{
+    box-shadow: 12px 12px 10px 1px black; 
+    margin: 10px;
+    width: 300px;
+    border-radius:20px;
+    align-content: center;
+}
+img{ 
+    width: 250;
+    border-radius:20px;}
